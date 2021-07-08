@@ -4,10 +4,9 @@
 
 using namespace std;
 
-//variable initialization
+//variable declaration
 string phrase,encrypted,decrypted;
 int count = 0 , length,flag = 0,ch,shift = 2;
-//file stream
 
 	
 void menu(){
